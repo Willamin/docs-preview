@@ -4,3 +4,11 @@ shards:
     github: ragmaanir/microtest
     commit: 46199a9b32be12021b9018a7e7e068572b842c69
 
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+
+  stout:
+    github: willamin/stout
+    version: 0.3.0
+
